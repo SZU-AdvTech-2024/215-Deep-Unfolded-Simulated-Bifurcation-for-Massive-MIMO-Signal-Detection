@@ -1,0 +1,6 @@
+@article{REPO215,
+    author = "Takabe, Satoshi",
+    journal = "arXiv preprint arXiv:2306.16264",
+    title = "{Deep Unfolded Simulated Bifurcation for Massive MIMO Signal Detection}",
+    year = "2023"
+}
